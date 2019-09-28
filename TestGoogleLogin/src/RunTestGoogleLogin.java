@@ -62,6 +62,8 @@ public class RunTestGoogleLogin {
                 return true;
             } else {
                 return false;
+              else {
+                return true;
             }
 
         // If anything goes wrong, return false.
